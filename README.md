@@ -33,9 +33,9 @@ Standardized numerical features to normalize ranges.
 
 We developed and benchmarked two regression models:
 
-# Linear Regression (baseline)
+ Linear Regression (baseline)
 
-# Random Forest Regressor (ensemble model)
+ Random Forest Regressor (ensemble model)
 
  Training & Evaluation
 
